@@ -1,11 +1,12 @@
 # Economic_Calendar
 
 #### 介绍
-一个基于华尔街见闻数据的经济日历订阅服务，支持Outlook, iCloud,Google Calendar 等日历应用。
+一个基于华尔街见闻数据的经济日历订阅服务，支持Outlook(不支持日程提醒), iCloud, Google Calendar 等日历应用。
 
 ## 主要功能
 
 - 📅 提供重要经济事件（⭐️⭐️⭐️）
+- ⏰数据发布前15分钟提醒
 
 ## 支持的国家/地区
 
