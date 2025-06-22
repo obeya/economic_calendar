@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Economic Calendar//https://gitee.com/obeya//
+BEGIN:VEVENT
+SUMMARY:★☆☆ RU 国务院副总理丁薛祥于6月19日至21日赴俄
+ 罗斯出席第二十八届圣彼得堡国际经济论坛
+DTSTART:20250621T120200
+DTEND:20250621T120200
+DTSTAMP:20250622T110004Z
+UID:10796
+DESCRIPTION:🌾事件: 俄罗斯国务院副总理丁薛祥于6月19日
+ 至21日赴俄罗斯出席第二十八届圣彼得堡国际经济论坛\n
+ ⭐重要: ★☆☆\n🪻今值: --\n🍁预期: --\n🌵前值: --
+LOCATION:财经日历
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER;RELATED=START:-PT15M
+END:VALARM
+END:VEVENT
+END:VCALENDAR
