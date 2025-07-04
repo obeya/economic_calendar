@@ -2,15 +2,13 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Economic Calendar//https://gitee.com/obeya//
 BEGIN:VEVENT
-SUMMARY:★★☆ TH 泰国证监会封禁Bybit、1000X、CoinEx、OKX和X
- T.COM等五家未经授权的加密货币交易所
-DTSTART:20250628T120200
-DTEND:20250628T120200
-DTSTAMP:20250629T150004Z
-UID:10808
-DESCRIPTION:🌾事件: 泰国泰国证监会封禁Bybit、1000X、CoinEx
- 、OKX和XT.COM等五家未经授权的加密货币交易所\n⭐重要: 
- ★★☆\n🪻今值: --\n🍁预期: --\n🌵前值: --
+SUMMARY:★★☆ TH 泰国央行公布6月货币政策会议纪要
+DTSTART:20250709T100000
+DTEND:20250709T100000
+DTSTAMP:20250704T070004Z
+UID:10922
+DESCRIPTION:🌾事件: 泰国泰国央行公布6月货币政策会议纪
+ 要\n⭐重要: ★★☆\n🪻今值: --\n🍁预期: --\n🌵前值: --
 LOCATION:财经日历
 BEGIN:VALARM
 ACTION:DISPLAY
