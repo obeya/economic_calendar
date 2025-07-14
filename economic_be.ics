@@ -2,14 +2,15 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Economic Calendar//https://gitee.com/obeya//
 BEGIN:VEVENT
-SUMMARY:★☆☆ BE 欧洲央行首席经济学家连恩发表讲话
-DTSTART:20250709T184500
-DTEND:20250709T184500
-DTSTAMP:20250710T150004Z
-UID:10953
-DESCRIPTION:🌾事件: 比利时欧洲央行首席经济学家连恩发
- 表讲话\n⭐重要: ★☆☆\n🪻今值: --\n🍁预期: --\n🌵前
- 值: --
+SUMMARY:★☆☆ BE 欧洲央行执委奇波洛内与欧洲议会经济
+ 与货币事务委员会交换意见
+DTSTART:20250714T230000
+DTEND:20250714T230000
+DTSTAMP:20250714T070004Z
+UID:10987
+DESCRIPTION:🌾事件: 比利时欧洲央行执委奇波洛内与欧洲
+ 议会经济与货币事务委员会交换意见\n⭐重要: ★☆☆\n
+ 🪻今值: --\n🍁预期: --\n🌵前值: --
 LOCATION:财经日历
 BEGIN:VALARM
 ACTION:DISPLAY
