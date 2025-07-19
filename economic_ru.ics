@@ -2,15 +2,30 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Economic Calendar//https://gitee.com/obeya//
 BEGIN:VEVENT
-SUMMARY:★★☆ RU 伊朗外长阿拉格奇与俄罗斯总统普京进
- 行重要会谈
-DTSTART:20250623T120200
-DTEND:20250623T120200
-DTSTAMP:20250624T150004Z
-UID:10824
-DESCRIPTION:🌾事件: 俄罗斯伊朗外长阿拉格奇与俄罗斯总
- 统普京进行重要会谈\n⭐重要: ★★☆\n🪻今值: --\n🍁预
- 期: --\n🌵前值: --
+SUMMARY:★★☆ RU 俄罗斯央行公布利率决议
+DTSTART:20250725T183000
+DTEND:20250725T183000
+DTSTAMP:20250719T160004Z
+UID:11031
+DESCRIPTION:🌾事件: 俄罗斯俄罗斯央行公布利率决议\n⭐重
+ 要: ★★☆\n🪻今值: --\n🍁预期: --\n🌵前值: --
+LOCATION:财经日历
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER;RELATED=START:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:★☆☆ RU 俄罗斯央行行长纳比乌琳娜召开货币政
+ 策新闻发布会
+DTSTART:20250725T200000
+DTEND:20250725T200000
+DTSTAMP:20250719T160004Z
+UID:11077
+DESCRIPTION:🌾事件: 俄罗斯俄罗斯央行行长纳比乌琳娜召
+ 开货币政策新闻发布会\n⭐重要: ★☆☆\n🪻今值: --\n🍁
+ 预期: --\n🌵前值: --
 LOCATION:财经日历
 BEGIN:VALARM
 ACTION:DISPLAY
