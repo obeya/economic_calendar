@@ -31,8 +31,7 @@
 2. 前往"日历" > "账户"
 3. 选择"添加账户" > "添加订阅的日历"
 4. 输入订阅链接：
-   - 全球日历：`https://gitee.com/obeya/economic_calendar/raw/main/economic_all.ics`
-   - 单个国家（以美国为例）：`https://gitee.com/obeya/economic_calendar/raw/main/economic_us.ics`
+   - 单个国家（以美国为例）：`https://raw.githubusercontent.com/obeya/economic_calendar/main/economic_us.ics`
 
 ### Google 日历
 1. 打开 Google Calendar
