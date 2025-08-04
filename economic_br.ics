@@ -2,13 +2,13 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Economic Calendar//https://gitee.com/obeya//
 BEGIN:VEVENT
-SUMMARY:★☆☆ BR 巴西央行公布利率决议
-DTSTART:20250731T053000
-DTEND:20250731T053000
-DTSTAMP:20250801T150003Z
-UID:11124
-DESCRIPTION:🌾事件: 巴西巴西央行公布利率决议\n⭐重要: 
- ★☆☆\n🪻今值: --\n🍁预期: --\n🌵前值: --
+SUMMARY:★☆☆ BR 巴西央行公布货币政策会议纪要
+DTSTART:20250805T190000
+DTEND:20250805T190000
+DTSTAMP:20250804T070004Z
+UID:11191
+DESCRIPTION:🌾事件: 巴西巴西央行公布货币政策会议纪要\n
+ ⭐重要: ★☆☆\n🪻今值: --\n🍁预期: --\n🌵前值: --
 LOCATION:财经日历
 BEGIN:VALARM
 ACTION:DISPLAY
