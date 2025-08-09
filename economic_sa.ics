@@ -2,15 +2,15 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Economic Calendar//https://gitee.com/obeya//
 BEGIN:VEVENT
-SUMMARY:★★☆ SA 欧佩克公布月度原油市场报告（月报具
+SUMMARY:★★★ SA 欧佩克公布月度原油市场报告（月报具
  体公布时间待定，一般于北京时间18-21点左右公布）
 DTSTART:20250812T120200
 DTEND:20250812T120200
-DTSTAMP:20250809T070023Z
+DTSTAMP:20250809T080023Z
 UID:11158
 DESCRIPTION:🌾事件: 沙特阿拉伯欧佩克公布月度原油市场
  报告（月报具体公布时间待定，一般于北京时间18-21点左
- 右公布）\n⭐重要: ★★☆\n🪻今值: --\n🍁预期: --\n🌵
+ 右公布）\n⭐重要: ★★★\n🪻今值: --\n🍁预期: --\n🌵
  前值: --
 LOCATION:财经日历
 BEGIN:VALARM
