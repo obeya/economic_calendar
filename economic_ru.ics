@@ -2,14 +2,15 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Economic Calendar//https://gitee.com/obeya//
 BEGIN:VEVENT
-SUMMARY:★☆☆ RU 俄罗斯央行公布货币政策会议纪要
-DTSTART:20250806T183000
-DTEND:20250806T183000
-DTSTAMP:20250807T150023Z
-UID:11174
-DESCRIPTION:🌾事件: 俄罗斯俄罗斯央行公布货币政策会议
- 纪要\n⭐重要: ★☆☆\n🪻今值: --\n🍁预期: --\n🌵前值: 
- --
+SUMMARY:★★★ RU 俄方证实俄美首脑会晤将于8月15日在阿
+ 拉斯加举行，称下次会晤将在俄罗斯境内举行
+DTSTART:20250815T120200
+DTEND:20250815T120200
+DTSTAMP:20250809T160023Z
+UID:11236
+DESCRIPTION:🌾事件: 俄罗斯俄方证实俄美首脑会晤将于8月1
+ 5日在阿拉斯加举行，称下次会晤将在俄罗斯境内举行\n
+ ⭐重要: ★★★\n🪻今值: --\n🍁预期: --\n🌵前值: --
 LOCATION:财经日历
 BEGIN:VALARM
 ACTION:DISPLAY
