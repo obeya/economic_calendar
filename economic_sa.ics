@@ -2,14 +2,14 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Economic Calendar//https://gitee.com/obeya//
 BEGIN:VEVENT
-SUMMARY:★★☆ SA 沙特阿美在每月5日左右公布官方原油售
+SUMMARY:★★★ SA 沙特阿美在每月5日左右公布官方原油售
  价
 DTSTART:20250905T120200
 DTEND:20250905T120200
-DTSTAMP:20250829T060027Z
+DTSTAMP:20250829T070024Z
 UID:11337
 DESCRIPTION:🌾事件: 沙特阿拉伯沙特阿美在每月5日左右公
- 布官方原油售价\n⭐重要: ★★☆\n🪻今值: --\n🍁预期: -
+ 布官方原油售价\n⭐重要: ★★★\n🪻今值: --\n🍁预期: -
  -\n🌵前值: --
 LOCATION:财经日历
 BEGIN:VALARM
