@@ -2,13 +2,15 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Economic Calendar//https://gitee.com/obeya//
 BEGIN:VEVENT
-SUMMARY:★★★ SE 诺贝尔经济学奖获奖人选公布
-DTSTART:20251013T174500
-DTEND:20251013T174500
-DTSTAMP:20251014T150024Z
-UID:11668
-DESCRIPTION:🌾事件: 瑞典诺贝尔经济学奖获奖人选公布\n⭐
- 重要: ★★★\n🪻今值: --\n🍁预期: --\n🌵前值: --
+SUMMARY:★☆☆ SE 瑞典央行行长特登就经济、支付与金融
+ 稳定议题发表讲话
+DTSTART:20251023T000000
+DTEND:20251023T000000
+DTSTAMP:20251016T080024Z
+UID:11857
+DESCRIPTION:🌾事件: 瑞典瑞典央行行长特登就经济、支付
+ 与金融稳定议题发表讲话\n⭐重要: ★☆☆\n🪻今值: --\n
+ 🍁预期: --\n🌵前值: --
 LOCATION:财经日历
 BEGIN:VALARM
 ACTION:DISPLAY
