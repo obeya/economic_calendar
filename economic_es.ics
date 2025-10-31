@@ -2,15 +2,13 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Economic Calendar//https://gitee.com/obeya//
 BEGIN:VEVENT
-SUMMARY:★☆☆ ES 欧洲央行副行长金多斯出席2025年巴塞罗
- 那不动产会议
-DTSTART:20251022T190000
-DTEND:20251022T190000
-DTSTAMP:20251023T150025Z
-UID:11882
-DESCRIPTION:🌾事件: 西班牙欧洲央行副行长金多斯出席2025
- 年巴塞罗那不动产会议\n⭐重要: ★☆☆\n🪻今值: --\n🍁
- 预期: --\n🌵前值: --
+SUMMARY:★☆☆ ES 英国央行副行长布里登发表讲话
+DTSTART:20251104T194000
+DTEND:20251104T194000
+DTSTAMP:20251031T070024Z
+UID:11977
+DESCRIPTION:🌾事件: 西班牙英国央行副行长布里登发表讲
+ 话\n⭐重要: ★☆☆\n🪻今值: --\n🍁预期: --\n🌵前值: --
 LOCATION:财经日历
 BEGIN:VALARM
 ACTION:DISPLAY
