@@ -2,30 +2,15 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Economic Calendar//https://gitee.com/obeya//
 BEGIN:VEVENT
-SUMMARY:★☆☆ BE 北约各国国防部长参加年度会议，讨论
- 北约安全优先事项
-DTSTART:20251015T120200
-DTEND:20251015T120200
-DTSTAMP:20251016T150024Z
-UID:11763
-DESCRIPTION:🌾事件: 比利时北约各国国防部长参加年度会
- 议，讨论北约安全优先事项\n⭐重要: ★☆☆\n🪻今值: --
- \n🍁预期: --\n🌵前值: --
-LOCATION:财经日历
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-TRIGGER;RELATED=START:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:★★☆ BE 欧洲央行副行长金多斯发表讲话
-DTSTART:20251015T154000
-DTEND:20251015T154000
-DTSTAMP:20251016T150024Z
-UID:11766
-DESCRIPTION:🌾事件: 比利时欧洲央行副行长金多斯发表讲
- 话\n⭐重要: ★★☆\n🪻今值: --\n🍁预期: --\n🌵前值: --
+SUMMARY:★☆☆ BE 英国央行金融稳定、战略与风险主管Lee F
+ oulger发表讲话
+DTSTART:20251112T094500
+DTEND:20251112T094500
+DTSTAMP:20251105T080024Z
+UID:12063
+DESCRIPTION:🌾事件: 比利时英国央行金融稳定、战略与风
+ 险主管Lee Foulger发表讲话\n⭐重要: ★☆☆\n🪻今值: --\n
+ 🍁预期: --\n🌵前值: --
 LOCATION:财经日历
 BEGIN:VALARM
 ACTION:DISPLAY
