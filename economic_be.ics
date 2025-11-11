@@ -6,11 +6,49 @@ SUMMARY:★☆☆ BE 英国央行金融稳定、战略与风险主管Lee F
  oulger发表讲话
 DTSTART:20251112T094500
 DTEND:20251112T094500
-DTSTAMP:20251111T070024Z
+DTSTAMP:20251111T080024Z
 UID:12063
 DESCRIPTION:🌾事件: 比利时英国央行金融稳定、战略与风
  险主管Lee Foulger发表讲话\n⭐重要: ★☆☆\n🪻今值: --\n
  🍁预期: --\n🌵前值: --
+LOCATION:财经日历
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER;RELATED=START:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:★☆☆ BE 欧元集团会议，欧洲央行行长拉加德、
+ 欧洲央行执委奇波洛内、欧洲央行银行监管委员会主席
+ 布赫出席会议
+DTSTART:20251112T120200
+DTEND:20251112T120200
+DTSTAMP:20251111T080024Z
+UID:12104
+DESCRIPTION:🌾事件: 比利时欧元集团会议，欧洲央行行长
+ 拉加德、欧洲央行执委奇波洛内、欧洲央行银行监管委
+ 员会主席布赫出席会议\n⭐重要: ★☆☆\n🪻今值: --\n🍁
+ 预期: --\n🌵前值: --
+LOCATION:财经日历
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER;RELATED=START:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:★☆☆ BE 欧元区财长举行会议，讨论宏观经济和
+ 财政发展、欧元区在全球背景下的竞争力、欧元集团的
+ 财政政策协调
+DTSTART:20251112T230000
+DTEND:20251112T230000
+DTSTAMP:20251111T080024Z
+UID:12121
+DESCRIPTION:🌾事件: 比利时欧元区财长举行会议，讨论宏
+ 观经济和财政发展、欧元区在全球背景下的竞争力、欧
+ 元集团的财政政策协调\n⭐重要: ★☆☆\n🪻今值: --\n🍁
+ 预期: --\n🌵前值: --
 LOCATION:财经日历
 BEGIN:VALARM
 ACTION:DISPLAY
