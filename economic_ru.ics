@@ -2,15 +2,15 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Economic Calendar//https://gitee.com/obeya//
 BEGIN:VEVENT
-SUMMARY:★☆☆ RU 俄罗斯财政部和中央银行官员在莫斯科AC
- RA论坛上发表讲话
-DTSTART:20251118T120200
-DTEND:20251118T120200
-DTSTAMP:20251119T150024Z
-UID:12135
-DESCRIPTION:🌾事件: 俄罗斯俄罗斯财政部和中央银行官员
- 在莫斯科ACRA论坛上发表讲话\n⭐重要: ★☆☆\n🪻今值: -
- -\n🍁预期: --\n🌵前值: --
+SUMMARY:★★★ RU 白宫结束俄乌冲突28点新计划草案披露，
+ 俄乌冲突近期有望迎来新进展
+DTSTART:20251124T120200
+DTEND:20251124T120200
+DTSTAMP:20251121T090025Z
+UID:12218
+DESCRIPTION:🌾事件: 俄罗斯白宫结束俄乌冲突28点新计划草
+ 案披露，俄乌冲突近期有望迎来新进展\n⭐重要: ★★★\
+ n🪻今值: --\n🍁预期: --\n🌵前值: --
 LOCATION:财经日历
 BEGIN:VALARM
 ACTION:DISPLAY
