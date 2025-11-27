@@ -7,22 +7,18 @@
 
 - 📅 提供重要经济事件（⭐️⭐️⭐️）
 - ⏰ 数据发布前15分钟提醒
-- ⌛ 七天内财经数据
+- ⌛ 15天内财经数据
 
 ## 支持的国家/地区
 
-- 🇺🇸 美国
-- 🇨🇳 中国
-- 🇪🇺 欧元区
-- 🇯🇵 日本
-- 🇬🇧 英国
-- 🇦🇺 澳大利亚
-- 🇩🇪 德国
-- 🇫🇷 法国
-- 🇨🇭 瑞士
-- 🇨🇦 加拿大
-- 🇮🇹 意大利
-- 🇳🇿 新西兰
+- cn 中国
+- us 美国
+- de 德国
+- ea 欧元区
+- jp 日本
+- gb 英国
+
+
 
 ## 如何订阅
 
@@ -31,7 +27,9 @@
 2. 前往"日历" > "账户"
 3. 选择"添加账户" > "添加订阅的日历"
 4. 输入订阅链接：
-   - 单个国家（以美国为例）：`https://raw.githubusercontent.com/obeya/economic_calendar/main/economic_us.ics`
+   - 中国：`https://raw.githubusercontent.com/obeya/economic_calendar/main/economic_cn.ics`
+   - 美国：`https://raw.githubusercontent.com/obeya/economic_calendar/main/economic_us.ics`
+   - 德国：`https://raw.githubusercontent.com/obeya/economic_calendar/main/economic_de.ics`
 
 ### Google 日历
 1. 打开 Google Calendar
