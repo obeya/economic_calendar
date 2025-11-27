@@ -1,24 +1,33 @@
-# Economic_Calendar
+# 🗓️ 财经日历
 
 #### 介绍
-一个基于华尔街见闻数据的经济日历订阅服务，支持Outlook(不支持日程提醒), iCloud, Google Calendar 等日历应用。
+基于华尔街见闻数据的经济日历订阅服务，支持Outlook(不支持日程提醒), iCloud, Google Calendar 等日历应用。
 
 ## 主要功能
 
 - 📅 提供重要经济事件（⭐️⭐️⭐️）
-- ⏰ 数据发布前15分钟提醒
+- ⏰ 数据发布前10分钟提醒
 - ⌛ 15天内财经数据
 
 ## 支持的国家/地区
 
-- cn 中国
+- **CN 中国**
 - us 美国
 - de 德国
 - ea 欧元区
-- jp 日本
 - gb 英国
+- jp 脚盆鸡
 
+## 订阅链接
 
+- 中国：`https://raw.githubusercontent.com/obeya/economic_calendar/main/economic_cn.ics`
+- 美国：`https://raw.githubusercontent.com/obeya/economic_calendar/main/economic_us.ics`
+- 德国：`https://raw.githubusercontent.com/obeya/economic_calendar/main/economic_de.ics`
+
+### ★★★
+- 中国★★★：`https://raw.githubusercontent.com/obeya/economic_calendar/main/economic_cn_high_impact.ics`
+- 美国★★★：`https://raw.githubusercontent.com/obeya/economic_calendar/main/economic_us_high_impact.ics`
+- 德国★★★：`https://raw.githubusercontent.com/obeya/economic_calendar/main/economic_de_high_impact.ics`
 
 ## 如何订阅
 
