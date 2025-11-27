@@ -27,9 +27,11 @@
 2. 前往"日历" > "账户"
 3. 选择"添加账户" > "添加订阅的日历"
 4. 输入订阅链接：
-   - 中国：`https://raw.githubusercontent.com/obeya/economic_calendar/main/economic_cn.ics`
-   - 美国：`https://raw.githubusercontent.com/obeya/economic_calendar/main/economic_us.ics`
-   - 德国：`https://raw.githubusercontent.com/obeya/economic_calendar/main/economic_de.ics`
+   - 中国    ：`https://raw.githubusercontent.com/obeya/economic_calendar/main/economic_cn.ics`
+   - 美国    ：`https://raw.githubusercontent.com/obeya/economic_calendar/main/economic_us.ics`
+   - 德国    ：`https://raw.githubusercontent.com/obeya/economic_calendar/main/economic_de.ics`
+   - 美国★★★：`https://raw.githubusercontent.com/obeya/economic_calendar/main/economic_us_high_impact.ics`
+   - 德国★★★：`https://raw.githubusercontent.com/obeya/economic_calendar/main/economic_de_high_impact.ics`
 
 ### Google 日历
 1. 打开 Google Calendar
