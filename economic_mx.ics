@@ -2,19 +2,18 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Economic Calendar//https://gitee.com/obeya//
 BEGIN:VEVENT
-SUMMARY:★☆☆ MX 墨西哥央行公布货币政策会议纪要
-DTSTART:20251120T230000
-DTEND:20251120T230000
-DTSTAMP:20251121T150027Z
-UID:12099
-DESCRIPTION:🌾事件: 墨西哥墨西哥央行公布货币政策会议
- 纪要\n⭐重要: ★☆☆\n🪻今值: --\n🍁预期: --\n🌵前值: 
- --
-LOCATION:财经日历
+SUMMARY:★☆☆ 墨西哥央行公布利率决议。
+DTSTART:20251219T030000
+DTEND:20251219T030000
+DTSTAMP:20251209T080025Z
+UID:12359
+DESCRIPTION:📰事件: 墨西哥墨西哥央行公布利率决议。\n⭐
+ 重要: ★☆☆\n🎯今值: --\n⛳预期: --\n📌前值: --
+LOCATION:墨西哥
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder
-TRIGGER;RELATED=START:-PT15M
+TRIGGER;RELATED=START:-PT10M
 END:VALARM
 END:VEVENT
 END:VCALENDAR
