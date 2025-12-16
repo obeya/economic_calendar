@@ -2,14 +2,14 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Economic Calendar//https://gitee.com/obeya//
 BEGIN:VEVENT
-SUMMARY:★☆☆ 欧洲央行管委马赫鲁夫发表讲话。
-DTSTART:20251210T020000
-DTEND:20251210T020000
-DTSTAMP:20251211T150024Z
-UID:12342
-DESCRIPTION:📰事件: 爱尔兰欧洲央行管委马赫鲁夫发表讲
- 话。\n⭐重要: ★☆☆\n🎯今值: --\n⛳预期: --\n📌前值: -
- -
+SUMMARY:★☆☆ 欧洲央行首席经济学家连恩发表讲话。
+DTSTART:20251219T231000
+DTEND:20251219T231000
+DTSTAMP:20251216T080024Z
+UID:12430
+DESCRIPTION:📰事件: 爱尔兰欧洲央行首席经济学家连恩发
+ 表讲话。\n⭐重要: ★☆☆\n🎯今值: --\n⛳预期: --\n📌前
+ 值: --
 LOCATION:爱尔兰
 BEGIN:VALARM
 ACTION:DISPLAY
