@@ -2,13 +2,13 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Economic Calendar//https://gitee.com/obeya//
 BEGIN:VEVENT
-SUMMARY:★☆☆ 瑞典央行公布货币政策会议纪要。
-DTSTART:20251230T163000
-DTEND:20251230T163000
-DTSTAMP:20251231T150024Z
-UID:12474
-DESCRIPTION:📰事件: 瑞典瑞典央行公布货币政策会议纪要
- 。\n⭐重要: ★☆☆\n🎯今值: --\n⛳预期: --\n📌前值: --
+SUMMARY:★☆☆ 瑞典央行公布利率决议。
+DTSTART:20260129T163000
+DTEND:20260129T163000
+DTSTAMP:20260122T060025Z
+UID:12772
+DESCRIPTION:📰事件: 瑞典瑞典央行公布利率决议。\n⭐重要
+ : ★☆☆\n🎯今值: --\n⛳预期: --\n📌前值: --
 LOCATION:瑞典
 BEGIN:VALARM
 ACTION:DISPLAY
