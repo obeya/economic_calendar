@@ -2,15 +2,15 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Economic Calendar//https://gitee.com/obeya//
 BEGIN:VEVENT
-SUMMARY:★★★ 中国外交部长王毅于12月12日至16日访问阿
- 联酋、沙特、约旦
-DTSTART:20251216T120200
-DTEND:20251216T120200
-DTSTAMP:20251217T150024Z
-UID:12392
-DESCRIPTION:📰事件: 阿联酋中国外交部长王毅于12月12日至1
- 6日访问阿联酋、沙特、约旦\n⭐重要: ★★★\n🎯今值: -
- -\n⛳预期: --\n📌前值: --
+SUMMARY:★★☆ 世界政府峰会2月3日至5日举行，IMF总裁发
+ 表演讲
+DTSTART:20260203T120200
+DTEND:20260203T120200
+DTSTAMP:20260130T040025Z
+UID:12899
+DESCRIPTION:📰事件: 阿联酋世界政府峰会2月3日至5日举行
+ ，IMF总裁发表演讲\n⭐重要: ★★☆\n🎯今值: --\n⛳预期:
+  --\n📌前值: --
 LOCATION:阿联酋
 BEGIN:VALARM
 ACTION:DISPLAY
