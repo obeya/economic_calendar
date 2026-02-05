@@ -2,16 +2,13 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Economic Calendar//https://gitee.com/obeya//
 BEGIN:VEVENT
-SUMMARY:★☆☆ 欧佩克公布月度原油市场报告（月报具体
- 公布时间待定，一般于北京时间18-21点左右公布）。
-DTSTART:20260114T120200
-DTEND:20260114T120200
-DTSTAMP:20260115T150024Z
-UID:12610
-DESCRIPTION:📰事件: 奥地利欧佩克公布月度原油市场报告
- （月报具体公布时间待定，一般于北京时间18-21点左右公
- 布）。\n⭐重要: ★☆☆\n🎯今值: --\n⛳预期: --\n📌前值
- : --
+SUMMARY:★☆☆ 欧洲央行管委科赫尔发表讲话。
+DTSTART:20260206T170000
+DTEND:20260206T170000
+DTSTAMP:20260205T060026Z
+UID:12940
+DESCRIPTION:📰事件: 奥地利欧洲央行管委科赫尔发表讲话
+ 。\n⭐重要: ★☆☆\n🎯今值: --\n⛳预期: --\n📌前值: --
 LOCATION:奥地利
 BEGIN:VALARM
 ACTION:DISPLAY
