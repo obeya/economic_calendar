@@ -2,13 +2,13 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Economic Calendar//https://gitee.com/obeya//
 BEGIN:VEVENT
-SUMMARY:★★☆ 格陵兰岛外长发表讲话。
-DTSTART:20260202T120200
-DTEND:20260202T120200
-DTSTAMP:20260203T150025Z
-UID:12885
-DESCRIPTION:📰事件: 挪威格陵兰岛外长发表讲话。\n⭐重要
- : ★★☆\n🎯今值: --\n⛳预期: --\n📌前值: --
+SUMMARY:★☆☆ 挪威央行行长巴赫发表讲话。
+DTSTART:20260213T010000
+DTEND:20260213T010000
+DTSTAMP:20260207T130025Z
+UID:12993
+DESCRIPTION:📰事件: 挪威挪威央行行长巴赫发表讲话。\n⭐
+ 重要: ★☆☆\n🎯今值: --\n⛳预期: --\n📌前值: --
 LOCATION:挪威
 BEGIN:VALARM
 ACTION:DISPLAY

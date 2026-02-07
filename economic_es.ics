@@ -2,14 +2,14 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Economic Calendar//https://gitee.com/obeya//
 BEGIN:VEVENT
-SUMMARY:★☆☆ 欧洲央行管委艾斯克里瓦发表讲话。
-DTSTART:20260121T160000
-DTEND:20260121T160000
-DTSTAMP:20260122T140024Z
-UID:12812
-DESCRIPTION:📰事件: 西班牙欧洲央行管委艾斯克里瓦发表
- 讲话。\n⭐重要: ★☆☆\n🎯今值: --\n⛳预期: --\n📌前值
- : --
+SUMMARY:★★☆ 欧洲央行副行长金多斯发表讲话。
+DTSTART:20260213T180000
+DTEND:20260213T180000
+DTSTAMP:20260207T130025Z
+UID:13002
+DESCRIPTION:📰事件: 西班牙欧洲央行副行长金多斯发表讲
+ 话。\n⭐重要: ★★☆\n🎯今值: --\n⛳预期: --\n📌前值: -
+ -
 LOCATION:西班牙
 BEGIN:VALARM
 ACTION:DISPLAY
