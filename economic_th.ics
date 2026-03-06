@@ -2,13 +2,13 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Economic Calendar//https://gitee.com/obeya//
 BEGIN:VEVENT
-SUMMARY:★★★ 泰国央行公布利率决议
-DTSTART:20260225T150000
-DTEND:20260225T150000
-DTSTAMP:20260226T150025Z
-UID:13125
-DESCRIPTION:📰事件: 泰国泰国央行公布利率决议\n⭐重要: 
- ★★★\n🎯今值: --\n⛳预期: --\n📌前值: --
+SUMMARY:★☆☆ 泰国央行公布货币政策会议纪要
+DTSTART:20260311T100000
+DTEND:20260311T100000
+DTSTAMP:20260306T020025Z
+UID:13252
+DESCRIPTION:📰事件: 泰国泰国央行公布货币政策会议纪要\n
+ ⭐重要: ★☆☆\n🎯今值: --\n⛳预期: --\n📌前值: --
 LOCATION:泰国
 BEGIN:VALARM
 ACTION:DISPLAY
