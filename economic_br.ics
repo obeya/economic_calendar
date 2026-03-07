@@ -2,25 +2,10 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Economic Calendar//https://gitee.com/obeya//
 BEGIN:VEVENT
-SUMMARY:★☆☆ Secex 2月商品出口报告
-DTSTART:20260306T020000
-DTEND:20260306T020000
-DTSTAMP:20260307T150024Z
-UID:13218
-DESCRIPTION:📰事件: 巴西Secex 2月商品出口报告\n⭐重要: ★
- ☆☆\n🎯今值: --\n⛳预期: --\n📌前值: --
-LOCATION:巴西
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-TRIGGER;RELATED=START:-PT10M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:★☆☆ 巴西商贸部农产品、工业品出口报告
 DTSTART:20260310T120200
 DTEND:20260310T120200
-DTSTAMP:20260307T150024Z
+DTSTAMP:20260307T160024Z
 UID:13265
 DESCRIPTION:📰事件: 巴西巴西商贸部农产品、工业品出口
  报告\n⭐重要: ★☆☆\n🎯今值: --\n⛳预期: --\n📌前值: -
@@ -36,7 +21,7 @@ BEGIN:VEVENT
 SUMMARY:★☆☆ Conab巴西大豆、玉米报告 
 DTSTART:20260310T120200
 DTEND:20260310T120200
-DTSTAMP:20260307T150024Z
+DTSTAMP:20260307T160024Z
 UID:13259
 DESCRIPTION:📰事件: 巴西Conab巴西大豆、玉米报告 \n⭐重要
  : ★☆☆\n🎯今值: --\n⛳预期: --\n📌前值: --
