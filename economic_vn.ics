@@ -2,44 +2,13 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Economic Calendar//https://gitee.com/obeya//
 BEGIN:VEVENT
-SUMMARY:★★☆ 2月贸易余额(亿美元)
-DTSTART:20260306T100500
-DTEND:20260306T100500
-DTSTAMP:20260307T150024Z
-UID:1552631
-DESCRIPTION:📰事件: 越南2月贸易余额(亿美元)\n⭐重要: ★
- ★☆\n🎯今值: -10.45亿美元\n⛳预期: -20.25亿美元\n📌前
- 值: -17.8亿美元
-LOCATION:越南
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-TRIGGER;RELATED=START:-PT10M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:★★☆ 2月进口同比
-DTSTART:20260306T100500
-DTEND:20260306T100500
-DTSTAMP:20260307T150024Z
-UID:1552630
-DESCRIPTION:📰事件: 越南2月进口同比\n⭐重要: ★★☆\n🎯
- 今值: 4.4%\n⛳预期: 13.3%\n📌前值: 49.2%
-LOCATION:越南
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-TRIGGER;RELATED=START:-PT10M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:★★☆ 2月出口同比
-DTSTART:20260306T100500
-DTEND:20260306T100500
-DTSTAMP:20260307T150024Z
-UID:1552629
-DESCRIPTION:📰事件: 越南2月出口同比\n⭐重要: ★★☆\n🎯
- 今值: 5.7%\n⛳预期: 12.8%\n📌前值: 29.7%
+SUMMARY:★★☆ 3月制造业PMI
+DTSTART:20260401T083000
+DTEND:20260401T083000
+DTSTAMP:20260318T160025Z
+UID:1557250
+DESCRIPTION:📰事件: 越南3月制造业PMI\n⭐重要: ★★☆\n🎯
+ 今值: --\n⛳预期: --\n📌前值: 54.3
 LOCATION:越南
 BEGIN:VALARM
 ACTION:DISPLAY
