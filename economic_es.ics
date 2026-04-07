@@ -2,13 +2,13 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Economic Calendar//https://gitee.com/obeya//
 BEGIN:VEVENT
-SUMMARY:★★☆ 欧洲央行副行长金多斯发表讲话。
-DTSTART:20260311T163000
-DTEND:20260311T163000
-DTSTAMP:20260312T150024Z
-UID:13294
+SUMMARY:★☆☆ 欧洲央行副行长金多斯发表讲话。
+DTSTART:20260410T180000
+DTEND:20260410T180000
+DTSTAMP:20260407T000024Z
+UID:13605
 DESCRIPTION:📰事件: 西班牙欧洲央行副行长金多斯发表讲
- 话。\n⭐重要: ★★☆\n🎯今值: --\n⛳预期: --\n📌前值: -
+ 话。\n⭐重要: ★☆☆\n🎯今值: --\n⛳预期: --\n📌前值: -
  -
 LOCATION:西班牙
 BEGIN:VALARM
