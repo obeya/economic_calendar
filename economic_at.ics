@@ -2,13 +2,14 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Economic Calendar//https://gitee.com/obeya//
 BEGIN:VEVENT
-SUMMARY:★☆☆ 欧洲央行管委科赫尔发表讲话。
-DTSTART:20260421T153000
-DTEND:20260421T153000
-DTSTAMP:20260422T150024Z
-UID:13769
-DESCRIPTION:📰事件: 奥地利欧洲央行管委科赫尔发表讲话
- 。\n⭐重要: ★☆☆\n🎯今值: --\n⛳预期: --\n📌前值: --
+SUMMARY:★★★ OPEC+ 八个产油国就6月产油政策举行会议
+DTSTART:20260503T120200
+DTEND:20260503T120200
+DTSTAMP:20260424T020025Z
+UID:13839
+DESCRIPTION:📰事件: 奥地利OPEC+ 八个产油国就6月产油政策
+ 举行会议\n⭐重要: ★★★\n🎯今值: --\n⛳预期: --\n📌前
+ 值: --
 LOCATION:奥地利
 BEGIN:VALARM
 ACTION:DISPLAY
