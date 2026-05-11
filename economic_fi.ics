@@ -2,15 +2,13 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Economic Calendar//https://gitee.com/obeya//
 BEGIN:VEVENT
-SUMMARY:★☆☆ 欧洲央行管委雷恩就货币政策和经济前景
- 发表讲话。
-DTSTART:20260421T160000
-DTEND:20260421T160000
-DTSTAMP:20260422T150024Z
-UID:13770
-DESCRIPTION:📰事件: 芬兰欧洲央行管委雷恩就货币政策和
- 经济前景发表讲话。\n⭐重要: ★☆☆\n🎯今值: --\n⛳预
- 期: --\n📌前值: --
+SUMMARY:★☆☆ 欧洲央行管委雷恩发表讲话。
+DTSTART:20260513T120200
+DTEND:20260513T120200
+DTSTAMP:20260511T040025Z
+UID:14059
+DESCRIPTION:📰事件: 芬兰欧洲央行管委雷恩发表讲话。\n⭐
+ 重要: ★☆☆\n🎯今值: --\n⛳预期: --\n📌前值: --
 LOCATION:芬兰
 BEGIN:VALARM
 ACTION:DISPLAY
