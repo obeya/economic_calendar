@@ -2,42 +2,10 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Economic Calendar//https://gitee.com/obeya//
 BEGIN:VEVENT
-SUMMARY:★☆☆ 2026CRU世界铝业大会（5月12-14日）
-DTSTART:20260512T120200
-DTEND:20260512T120200
-DTSTAMP:20260513T150024Z
-UID:14050
-DESCRIPTION:📰事件: 瑞士2026CRU世界铝业大会（5月12-14日）\
- n⭐重要: ★☆☆\n🎯今值: --\n⛳预期: --\n📌前值: --
-LOCATION:瑞士
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-TRIGGER;RELATED=START:-PT10M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:★★★ 纽约联储主席威廉姆斯等多位美联储官员
- 发表讲话
-DTSTART:20260512T151500
-DTEND:20260512T151500
-DTSTAMP:20260513T150024Z
-UID:14010
-DESCRIPTION:📰事件: 瑞士纽约联储主席威廉姆斯等多位美
- 联储官员发表讲话\n⭐重要: ★★★\n🎯今值: --\n⛳预期:
-  --\n📌前值: --
-LOCATION:瑞士
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-TRIGGER;RELATED=START:-PT10M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:★☆☆ 一季度工业产出同比
 DTSTART:20260521T143000
 DTEND:20260521T143000
-DTSTAMP:20260513T150024Z
+DTSTAMP:20260513T160024Z
 UID:1574677
 DESCRIPTION:📰事件: 瑞士一季度工业产出同比\n⭐重要: ★
  ☆☆\n🎯今值: --\n⛳预期: --\n📌前值: -0.7%
@@ -52,10 +20,25 @@ BEGIN:VEVENT
 SUMMARY:★☆☆ 一季度工业订单同比
 DTSTART:20260521T143000
 DTEND:20260521T143000
-DTSTAMP:20260513T150024Z
+DTSTAMP:20260513T160024Z
 UID:1574676
 DESCRIPTION:📰事件: 瑞士一季度工业订单同比\n⭐重要: ★
  ☆☆\n🎯今值: --\n⛳预期: --\n📌前值: -0.3%
+LOCATION:瑞士
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER;RELATED=START:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:★☆☆ 5月投资者信心指数
+DTSTART:20260527T160000
+DTEND:20260527T160000
+DTSTAMP:20260513T160024Z
+UID:1573602
+DESCRIPTION:📰事件: 瑞士5月投资者信心指数\n⭐重要: ★☆
+ ☆\n🎯今值: --\n⛳预期: --\n📌前值: -30.3
 LOCATION:瑞士
 BEGIN:VALARM
 ACTION:DISPLAY
