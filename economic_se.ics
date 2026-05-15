@@ -2,14 +2,15 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Economic Calendar//https://gitee.com/obeya//
 BEGIN:VEVENT
-SUMMARY:★☆☆ 瑞典央行公布5月货币政策会议纪要。
-DTSTART:20260513T153000
-DTEND:20260513T153000
-DTSTAMP:20260514T150025Z
-UID:14009
-DESCRIPTION:📰事件: 瑞典瑞典央行公布5月货币政策会议纪
- 要。\n⭐重要: ★☆☆\n🎯今值: --\n⛳预期: --\n📌前值: -
- -
+SUMMARY:★☆☆ 瑞典央行副行长扬松就经济形势和当前货
+ 币政策发表讲话。
+DTSTART:20260520T143000
+DTEND:20260520T143000
+DTSTAMP:20260515T020024Z
+UID:14093
+DESCRIPTION:📰事件: 瑞典瑞典央行副行长扬松就经济形势
+ 和当前货币政策发表讲话。\n⭐重要: ★☆☆\n🎯今值: --
+ \n⛳预期: --\n📌前值: --
 LOCATION:瑞典
 BEGIN:VALARM
 ACTION:DISPLAY
