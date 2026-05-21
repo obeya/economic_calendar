@@ -2,13 +2,14 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Economic Calendar//https://gitee.com/obeya//
 BEGIN:VEVENT
-SUMMARY:★☆☆ 伊朗股票市场恢复交易。 
-DTSTART:20260519T133000
-DTEND:20260519T133000
-DTSTAMP:20260520T150024Z
-UID:14131
-DESCRIPTION:📰事件: 沙特阿拉伯伊朗股票市场恢复交易。 \
- n⭐重要: ★☆☆\n🎯今值: --\n⛳预期: --\n📌前值: --
+SUMMARY:★★★ 伊朗暂停钢材和钢板出口至5月30日
+DTSTART:20260530T000000
+DTEND:20260530T000000
+DTSTAMP:20260521T030026Z
+UID:14171
+DESCRIPTION:📰事件: 沙特阿拉伯伊朗暂停钢材和钢板出口
+ 至5月30日\n⭐重要: ★★★\n🎯今值: --\n⛳预期: --\n📌前
+ 值: --
 LOCATION:沙特阿拉伯
 BEGIN:VALARM
 ACTION:DISPLAY
