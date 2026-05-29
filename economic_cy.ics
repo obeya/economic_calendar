@@ -2,15 +2,14 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Economic Calendar//https://gitee.com/obeya//
 BEGIN:VEVENT
-SUMMARY:★☆☆ 欧洲央行行长拉加德参加欧洲经济暨财政
- 事务理事会(ECOFIN)非正式会议。
-DTSTART:20260523T120200
-DTEND:20260523T120200
-DTSTAMP:20260524T150024Z
-UID:14139
-DESCRIPTION:📰事件: 塞浦路斯欧洲央行行长拉加德参加欧
- 洲经济暨财政事务理事会(ECOFIN)非正式会议。\n⭐重要: 
- ★☆☆\n🎯今值: --\n⛳预期: --\n📌前值: --
+SUMMARY:★★☆ 加纳将于6月起收购大型金矿30%的产量
+DTSTART:20260601T000000
+DTEND:20260601T000000
+DTSTAMP:20260529T030025Z
+UID:14222
+DESCRIPTION:📰事件: 塞浦路斯加纳将于6月起收购大型金矿3
+ 0%的产量\n⭐重要: ★★☆\n🎯今值: --\n⛳预期: --\n📌前
+ 值: --
 LOCATION:塞浦路斯
 BEGIN:VALARM
 ACTION:DISPLAY
