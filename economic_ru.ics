@@ -2,13 +2,15 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Economic Calendar//https://gitee.com/obeya//
 BEGIN:VEVENT
-SUMMARY:★☆☆ 俄罗斯总统普京发表讲话。
-DTSTART:20260512T213000
-DTEND:20260512T213000
-DTSTAMP:20260513T150024Z
-UID:14068
-DESCRIPTION:📰事件: 俄罗斯俄罗斯总统普京发表讲话。\n⭐
- 重要: ★☆☆\n🎯今值: --\n⛳预期: --\n📌前值: --
+SUMMARY:★☆☆ 2026年圣彼得堡国际经济论坛定于6月3日至6
+ 日举行。
+DTSTART:20260606T120200
+DTEND:20260606T120200
+DTSTAMP:20260602T080025Z
+UID:14238
+DESCRIPTION:📰事件: 俄罗斯2026年圣彼得堡国际经济论坛定
+ 于6月3日至6日举行。\n⭐重要: ★☆☆\n🎯今值: --\n⛳预
+ 期: --\n📌前值: --
 LOCATION:俄罗斯
 BEGIN:VALARM
 ACTION:DISPLAY
