@@ -2,15 +2,13 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Economic Calendar//https://gitee.com/obeya//
 BEGIN:VEVENT
-SUMMARY:★★☆ 亚洲防务峰会“香格里拉对话会”在新加
- 坡开幕
-DTSTART:20260529T120200
-DTEND:20260529T120200
-DTSTAMP:20260530T150024Z
-UID:14178
-DESCRIPTION:📰事件: 新加坡亚洲防务峰会“香格里拉对话
- 会”在新加坡开幕\n⭐重要: ★★☆\n🎯今值: --\n⛳预期:
-  --\n📌前值: --
+SUMMARY:★☆☆ ESG新加坡周度燃料油库存
+DTSTART:20260611T160000
+DTEND:20260611T160000
+DTSTAMP:20260604T040025Z
+UID:14273
+DESCRIPTION:📰事件: 新加坡ESG新加坡周度燃料油库存\n⭐重
+ 要: ★☆☆\n🎯今值: --\n⛳预期: --\n📌前值: --
 LOCATION:新加坡
 BEGIN:VALARM
 ACTION:DISPLAY
