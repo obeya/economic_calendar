@@ -2,14 +2,13 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Economic Calendar//https://gitee.com/obeya//
 BEGIN:VEVENT
-SUMMARY:★☆☆ 欧洲央行首席经济学家连恩发表讲话。
-DTSTART:20260528T080000
-DTEND:20260528T080000
-DTSTAMP:20260529T150025Z
-UID:14179
-DESCRIPTION:📰事件: 土耳其欧洲央行首席经济学家连恩发
- 表讲话。\n⭐重要: ★☆☆\n🎯今值: --\n⛳预期: --\n📌前
- 值: --
+SUMMARY:★★☆ 土耳其央行公布利率决议。
+DTSTART:20260611T190000
+DTEND:20260611T190000
+DTSTAMP:20260609T040024Z
+UID:14294
+DESCRIPTION:📰事件: 土耳其土耳其央行公布利率决议。\n⭐
+ 重要: ★★☆\n🎯今值: --\n⛳预期: --\n📌前值: --
 LOCATION:土耳其
 BEGIN:VALARM
 ACTION:DISPLAY
