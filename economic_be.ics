@@ -2,15 +2,13 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Economic Calendar//https://gitee.com/obeya//
 BEGIN:VEVENT
-SUMMARY:★☆☆ 欧盟领导人与韩国总统李在明在布鲁塞尔
- 举行峰会。
-DTSTART:20260610T200000
-DTEND:20260610T200000
-DTSTAMP:20260611T150024Z
-UID:14295
-DESCRIPTION:📰事件: 比利时欧盟领导人与韩国总统李在明
- 在布鲁塞尔举行峰会。\n⭐重要: ★☆☆\n🎯今值: --\n⛳
- 预期: --\n📌前值: --
+SUMMARY:★☆☆ 北约组织举行防长会议。
+DTSTART:20260618T120200
+DTEND:20260618T120200
+DTSTAMP:20260616T040024Z
+UID:14352
+DESCRIPTION:📰事件: 比利时北约组织举行防长会议。\n⭐重
+ 要: ★☆☆\n🎯今值: --\n⛳预期: --\n📌前值: --
 LOCATION:比利时
 BEGIN:VALARM
 ACTION:DISPLAY
